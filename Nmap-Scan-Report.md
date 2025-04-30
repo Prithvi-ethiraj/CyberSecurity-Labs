@@ -28,5 +28,4 @@ nmap -sS -A -T4 192.168.1.10
 - Basics of stealthy scanning (SYN scan)
 - Identifying vulnerable services
 
-## 📸 Screenshot
-(*Optional* – You can upload image later and add this)
+
