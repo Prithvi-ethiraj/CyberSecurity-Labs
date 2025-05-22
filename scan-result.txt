@@ -1,0 +1,13 @@
+# Nmap 7.94SVN scan initiated Thu May 22 00:05:51 2025 as: /usr/lib/nmap/nmap --privileged -sS -A -T4 -oN scan-result.txt 192.168.1.10
+Nmap scan report for 192.168.1.10
+Host is up (0.0022s latency).
+All 1000 scanned ports on 192.168.1.10 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+Too many fingerprints match this host to give specific OS details
+
+TRACEROUTE (using port 80/tcp)
+HOP RTT    ADDRESS
+1   ... 30
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu May 22 00:06:12 2025 -- 1 IP address (1 host up) scanned in 21.34 seconds
